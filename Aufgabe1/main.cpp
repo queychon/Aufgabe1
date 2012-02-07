@@ -11,6 +11,8 @@
 int sc_main (int argc, char * argv[]) {
 			
     // insert code here...hoiuguo
+    // haliodshfdsoi fodshf oih
+    
     std::cout << "Hello, SystemC!\n";
     sc_start();
     return 0;
