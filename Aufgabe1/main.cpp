@@ -10,7 +10,7 @@
 
 int sc_main (int argc, char * argv[]) {
 			
-    // insert code here...
+    // insert code here...hoiuguo
     std::cout << "Hello, SystemC!\n";
     sc_start();
     return 0;
